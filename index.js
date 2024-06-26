@@ -10,8 +10,8 @@ app.use(bodyParser.json());
 
 let tasks = [
     { id: 1, title: 'Tarea 1', description: 'Realizar trabajo rest api', done: false },
-    { id: 2, title: 'Tarea 2', description: 'realizar granpql intento 5', done: false },
-    { id: 3, title: 'Tarea 3', description: 'Realizar trabajo rest api', done: false },
+    { id: 2, title: 'Tarea 2', description: 'realizar taller', done: false },
+    { id: 3, title: 'Tarea 3', description: 'Realizar trabajo ', done: false },
     { id: 4, title: 'Tarea 4', description: 'taller 26-06-2024', done: false }
 ];
 
