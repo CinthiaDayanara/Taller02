@@ -1,9 +1,10 @@
-taller integrantes: Pablo Sanchez
-Dayanara Churaco
-
+workshop members: Pablo Sanchez
+                  Dayanara Churaco
+     steps to follow
 npm install
 npm run
 npm stast
-http://localhost:3000/tasks ---- listar todas las tareas
-http://localhost:3000/tasks/:id ----
-http://localhost:3000/tasks/:id ----eliminas tareas
+http://localhost:3000/tasks ---- list all tasks
+http://localhost:3000/tasks ----- create tasks
+http://localhost:3000/tasks/:id ----delete tasks
+
